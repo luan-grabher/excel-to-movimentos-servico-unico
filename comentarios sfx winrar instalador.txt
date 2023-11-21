@@ -1,0 +1,6 @@
+;O comentário abaixo contém comando de sequência SFX
+
+Path=Notas_e_Recibos_Adyl_para_Arquivo_Unico
+Overwrite=1
+Shortcut=D, main.py, , "Notas e Recibos Adyl para Unico", "Notas e Recibos Adyl para Unico", 
+Shortcut=P, main.py, , "Notas e Recibos Adyl para Unico", "Notas e Recibos Adyl para Unico", 
